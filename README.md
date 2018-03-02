@@ -1,7 +1,7 @@
 # My-Environment
 How to setup my environment so that I get consistent feels
 ## iTerm2
-Download iTerm2 for the terminal emulator: https://www.iterm2.com/
+Download [iTerm2](https://www.iterm2.com/) for the terminal emulator.
 I use the material-design color scheme: https://github.com/MartinSeeler/iterm2-material-design#how-to-use-it
 ## Oh-My-Zsh
 Install Oh-My-Zsh for the shell: https://github.com/robbyrussell/oh-my-zsh#getting-started
