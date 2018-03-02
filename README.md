@@ -10,3 +10,5 @@ Set the [Knack Nerd Font from the Hack package](https://github.com/ryanoasis/ner
 ## Powerlevel9k
 Use the [Powerlevel9k Zsh theme](https://github.com/bhilburn/powerlevel9k#installation) paired with the Knack font that has Powerline capabilities.
 
+## The look
+[[ https://github.com/coleelam/My-Environment/blob/master/env.png | alt=theme ]]
